@@ -4,7 +4,7 @@
     
 group { 'group01':
   ensure => present,
-}
+} 
 
 group { 'group02':
   ensure => present,
